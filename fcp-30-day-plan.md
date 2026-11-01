@@ -160,17 +160,32 @@ Watch the main video first. The extra video goes deeper or shows another method.
 | Day | Main video | Extra video |
 |---|---|---|
 | 1 | [Final Cut Pro Tutorial: Step-By-Step For Beginners (2025) – Primal Video](https://www.youtube.com/watch?v=Z1w5lalpGmA) | [Final Cut Pro Tutorial for Beginners – COMPLETE Guide](https://www.youtube.com/watch?v=mX4JNRRya3U) |
+| 2 | [Vertical Videos in Final Cut Pro: Reels, TikTok & Shorts](https://www.youtube.com/watch?v=0Ch7L5hHAkM) | [FCP Masterclass: Import, Organize, and Edit Like a Pro](https://www.youtube.com/watch?v=SMH2MN3I6zg) |
 | 3 | [Complete Guide To Final Cut Pro's Magnetic Timeline](https://www.youtube.com/watch?v=Fnu6FiZ_Vd0) | [Beginner Tutorial: Edits – Connect, Insert & Append](https://www.youtube.com/watch?v=bjcBYzUoyBw) |
+| 4 | [How to do Ripple, Roll, Slip and Slide Edits in Final Cut Pro](https://www.youtube.com/watch?v=oa83bWbPQeo) | [How To Trim in FCP with Ripple, Roll, Slip and Slide](https://www.youtube.com/watch?v=IHo3vz_5aGs) |
 | 5 | [How to CLEAN UP Audio in Final Cut (Voice Isolation)](https://www.youtube.com/watch?v=qVq28NxZckM) | [How to Mix Voice and Music in Final Cut Pro](https://www.youtube.com/watch?v=IyGhfu3i6HY) |
+| 6 | [Final Cut Pro • Complete Guide To Transcribe To Captions](https://www.youtube.com/watch?v=7PhmMrVYIGY) | [How To Add The Default Title Or Lower Third in FCP](https://www.youtube.com/watch?v=O3Ph7VCOBaE) |
 | 7 | [BEST Export Settings for YouTube for 2026 (Final Cut Pro)](https://www.youtube.com/watch?v=dsepEaDWF0U) | [Export in FCP for YouTube, Instagram, TikTok (Beginner)](https://www.youtube.com/watch?v=ZGQQDCVrvao) |
+| 8 | [100 Shortcuts every FCP Editor MUST KNOW](https://www.youtube.com/watch?v=VjiVYTR5Hp4) | [10 Final Cut Shortcuts That Will Double Your Editing Speed](https://www.youtube.com/watch?v=79AWL2lMoME) |
 | 9 | [How to Add Transitions in Final Cut Pro](https://www.youtube.com/watch?v=XQ87idx6ZIw) | [Final Cut Pro 11 Creative Effects and Mask Transitions](https://www.youtube.com/watch?v=rzsMq2Fujmc) |
+| 10 | [Retiming in Final Cut Pro (every option in the menu)](https://www.youtube.com/watch?v=LnU5CCToDYo) | [How to Speed Ramp in Final Cut Pro](https://www.youtube.com/watch?v=lQfpl03fWMc) |
 | 11 | [Create Vertical Videos FASTER with Smart Conform](https://www.youtube.com/watch?v=C0OJ_wAnC6I) | [FCP for Social Media: Smart Conforming, Titles + more](https://www.youtube.com/watch?v=6yrA7JHYkdA) |
+| 12 | [Final Cut Pro 11 – Enhance Light and Color Tutorial](https://www.youtube.com/watch?v=2_NnAbIaR1I) | [Color Correction & Grading in FCP in Under 60 Minutes](https://www.youtube.com/watch?v=QbINvWI3ZeU) |
 | 13 | [How to Create & Use Compound Clips in Final Cut Pro](https://www.youtube.com/watch?v=2Lzn3ZIvh20) | [Final Cut Pro in Under 5 Minutes: Building Title Templates](https://www.youtube.com/watch?v=dreN2uhpT-w) |
+| 14 | [How To Create A Chapter Marker In Final Cut Pro](https://www.youtube.com/watch?v=XxHoXRbgcSY) | [Chapter markers → timecodes for YouTube descriptions](https://www.youtube.com/watch?v=uAKeuR0yENs) |
 | 15 | [Final Cut Pro 11 • Complete Guide To The Magnetic Mask](https://www.youtube.com/watch?v=X8DZgSRsvF4) | [FCP Green Screen Tutorial for Beginners (Keyer)](https://www.youtube.com/watch?v=KdfFCRaO2h0) |
+| 16 | [Object Tracking in FCP – Text Follow a Moving Object](https://www.youtube.com/watch?v=oYUKAg-piww) | [Final Cut Pro Text Object Tracking Tutorial](https://www.youtube.com/watch?v=6y8DjBjUzJs) |
 | 17 | [How to Record Your Voice-over In Final Cut Pro](https://www.youtube.com/watch?v=wDM5rnxtb6Y) | [How I Process Voice Audio for YouTube](https://www.youtube.com/watch?v=HCMTD9YCZYk) |
+| 18 | [Multicam Editing Tutorial on Final Cut Pro](https://www.youtube.com/watch?v=ItPxCxZiqgc) | [3 Ways You Can Stabilize Video in Final Cut Pro](https://www.youtube.com/watch?v=Dciy-b-oZQg) |
 | 19 | [How to Use Adjustment Layers in Final Cut Pro 11](https://www.youtube.com/watch?v=4YEG18HSxqk) | [How to correctly use LUTs – 3 methods you must know](https://www.youtube.com/watch?v=NMc4I1VFIQY) |
+| 20 | [Beat Detection Explained (Final Cut Pro 12)](https://www.youtube.com/watch?v=GGiw--LD7Os) | [How to Use Keyframes to Animate Objects in FCP](https://www.youtube.com/watch?v=c00CWAB25rg) |
 | 21 | [Show-Stopping YouTube Thumbnails with Pixelmator Pro](https://www.youtube.com/watch?v=Y7V8I0PF6FM) | [Youtube Thumbnail Creation In Apple Pixelmator Pro](https://www.youtube.com/watch?v=D6SecVZDwBA) |
+| 22 | [How to Batch Content for YouTube Shorts: Record, Edit, Upload](https://www.youtube.com/watch?v=QpiybT-NRCA) | [How I Batch Film 4 Videos in 1 Day (Behind the Scenes)](https://www.youtube.com/watch?v=-FiehoOtVOo) |
 | 23 | [Master Auditioning in Final Cut Pro for Perfect Takes](https://www.youtube.com/watch?v=dn5PICo3lls) | [How to Use Control-E (Precision Editor) for Perfect Edits](https://www.youtube.com/watch?v=QJQE4B8ru5s) |
+| 24 | [Edit faster in Final Cut using proxy media](https://www.youtube.com/watch?v=fBlwZ3jVEOI) | [How To Delete Render Files in Final Cut Pro (2026)](https://www.youtube.com/watch?v=kw65kqEWtmQ) |
 | 25 | [Final Cut Pro: Turn Any Video into a Vertical Reel or Short](https://www.youtube.com/watch?v=k03VboO8qHk) | [How to Duplicate Your Project in Final Cut Pro](https://www.youtube.com/watch?v=lOcBGZC97mE) |
+| 26 | [YouTube SEO Settings 2025](https://www.youtube.com/watch?v=CMMMgDUj3qQ) | [How to Rank YouTube Videos – Small & New Channels](https://www.youtube.com/watch?v=Hu0sZxN2nGw) |
 | 27 | [Viewed to Swiped Away Ratio in YouTube Shorts (MUST KNOW)](https://www.youtube.com/watch?v=oCW2Ms3Il1A) | [How To Increase Swipe Rate In YouTube Shorts](https://www.youtube.com/watch?v=-Jjp14CkQIs) |
+| 28 | [Final Cut Pro Just Made It EASY To Edit YouTube Shorts](https://www.youtube.com/watch?v=uAa0QiOEtV0) | [EDIT FASTER IN FINAL CUT PRO](https://www.youtube.com/watch?v=VMH3wBqE7U4) |
 | 29 | [My Final Cut Pro Video Editing Workflow from Start to Finish](https://www.youtube.com/watch?v=3Uec2crLL_4) | [How I Edit YouTube Videos (Final Cut Pro Tips & Tricks)](https://www.youtube.com/watch?v=J9lCj6NjhUo) |
+| 30 | [Build a YouTube Content Calendar That Actually Works](https://www.youtube.com/watch?v=AaOrWr69nRo) | [YouTube Creators: Optimize & Evolve Your Content (official)](https://www.youtube.com/creators/grow/optimize-your-content/) |
