@@ -149,3 +149,28 @@ Your manual says FCP is now part of **Apple Creator Studio** (p. 16–18). It's 
 | Cmd+R | Retime menu | Cmd+E | Export (default share) |
 | N | Snapping on/off | V | Enable/disable clip |
 | Opt+Cmd+A | Enhance Audio | Cmd+Opt+K | Command Editor |
+
+
+---
+
+## Videos for each day
+
+Watch the main video first. The extra video goes deeper or shows another method. I chose these from YouTube search results by relevance, how recent they are, and the channel. View counts couldn't be checked from this environment, so look at the view count and date on YouTube before you watch.
+
+| Day | Main video | Extra video |
+|---|---|---|
+| 1 | [Final Cut Pro Tutorial: Step-By-Step For Beginners (2025) – Primal Video](https://www.youtube.com/watch?v=Z1w5lalpGmA) | [Final Cut Pro Tutorial for Beginners – COMPLETE Guide](https://www.youtube.com/watch?v=mX4JNRRya3U) |
+| 3 | [Complete Guide To Final Cut Pro's Magnetic Timeline](https://www.youtube.com/watch?v=Fnu6FiZ_Vd0) | [Beginner Tutorial: Edits – Connect, Insert & Append](https://www.youtube.com/watch?v=bjcBYzUoyBw) |
+| 5 | [How to CLEAN UP Audio in Final Cut (Voice Isolation)](https://www.youtube.com/watch?v=qVq28NxZckM) | [How to Mix Voice and Music in Final Cut Pro](https://www.youtube.com/watch?v=IyGhfu3i6HY) |
+| 7 | [BEST Export Settings for YouTube for 2026 (Final Cut Pro)](https://www.youtube.com/watch?v=dsepEaDWF0U) | [Export in FCP for YouTube, Instagram, TikTok (Beginner)](https://www.youtube.com/watch?v=ZGQQDCVrvao) |
+| 9 | [How to Add Transitions in Final Cut Pro](https://www.youtube.com/watch?v=XQ87idx6ZIw) | [Final Cut Pro 11 Creative Effects and Mask Transitions](https://www.youtube.com/watch?v=rzsMq2Fujmc) |
+| 11 | [Create Vertical Videos FASTER with Smart Conform](https://www.youtube.com/watch?v=C0OJ_wAnC6I) | [FCP for Social Media: Smart Conforming, Titles + more](https://www.youtube.com/watch?v=6yrA7JHYkdA) |
+| 13 | [How to Create & Use Compound Clips in Final Cut Pro](https://www.youtube.com/watch?v=2Lzn3ZIvh20) | [Final Cut Pro in Under 5 Minutes: Building Title Templates](https://www.youtube.com/watch?v=dreN2uhpT-w) |
+| 15 | [Final Cut Pro 11 • Complete Guide To The Magnetic Mask](https://www.youtube.com/watch?v=X8DZgSRsvF4) | [FCP Green Screen Tutorial for Beginners (Keyer)](https://www.youtube.com/watch?v=KdfFCRaO2h0) |
+| 17 | [How to Record Your Voice-over In Final Cut Pro](https://www.youtube.com/watch?v=wDM5rnxtb6Y) | [How I Process Voice Audio for YouTube](https://www.youtube.com/watch?v=HCMTD9YCZYk) |
+| 19 | [How to Use Adjustment Layers in Final Cut Pro 11](https://www.youtube.com/watch?v=4YEG18HSxqk) | [How to correctly use LUTs – 3 methods you must know](https://www.youtube.com/watch?v=NMc4I1VFIQY) |
+| 21 | [Show-Stopping YouTube Thumbnails with Pixelmator Pro](https://www.youtube.com/watch?v=Y7V8I0PF6FM) | [Youtube Thumbnail Creation In Apple Pixelmator Pro](https://www.youtube.com/watch?v=D6SecVZDwBA) |
+| 23 | [Master Auditioning in Final Cut Pro for Perfect Takes](https://www.youtube.com/watch?v=dn5PICo3lls) | [How to Use Control-E (Precision Editor) for Perfect Edits](https://www.youtube.com/watch?v=QJQE4B8ru5s) |
+| 25 | [Final Cut Pro: Turn Any Video into a Vertical Reel or Short](https://www.youtube.com/watch?v=k03VboO8qHk) | [How to Duplicate Your Project in Final Cut Pro](https://www.youtube.com/watch?v=lOcBGZC97mE) |
+| 27 | [Viewed to Swiped Away Ratio in YouTube Shorts (MUST KNOW)](https://www.youtube.com/watch?v=oCW2Ms3Il1A) | [How To Increase Swipe Rate In YouTube Shorts](https://www.youtube.com/watch?v=-Jjp14CkQIs) |
+| 29 | [My Final Cut Pro Video Editing Workflow from Start to Finish](https://www.youtube.com/watch?v=3Uec2crLL_4) | [How I Edit YouTube Videos (Final Cut Pro Tips & Tricks)](https://www.youtube.com/watch?v=J9lCj6NjhUo) |
